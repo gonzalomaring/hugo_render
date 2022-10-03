@@ -1,59 +1,54 @@
 ---
-title: "Web estática dedicada a Debian"
-date: 2022-09-30T10:16:30+02:00
+title: "INICIO WEB ESTÁTICA CREADA PARA IAW"
+date: 2022-09-30T10:18:30+02:00
 draft: false
 ---
+# Implantación de Aplicaciones Web
 
-# Debian
+![Imagen de ejemplo](https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/styles/2400/public/media/image/2019/07/origen-nombres-informatica-nunca-hubieras-imaginado_2.jpg?itok=sGsKfgat)
 
-## Imagen de Debian
+## Página principal práctica 1 IAW
 
-![Imagen de ejemplo](https://www.comoinstalarlinux.com/wp-content/uploads/debian-logo-1024x576-1.png)
+### Subsubtitulo
 
-## ¿Qué es Debian?
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus nec suscipit lorem. Duis at nisl semper, rutrum leo sed, euismod arcu. Nulla purus nisi, vestibulum id mattis sit amet, accumsan ut est. Aenean volutpat scelerisque urna quis vestibulum. Praesent vehicula ut lectus a feugiat. 
 
-Debian es un sistema operativo libre, es decir, que su código fuente está disponible para todo el mundo y que cualquiera puede modificarlo y redistribuirlo. Debian es un sistema operativo que se basa en el núcleo Linux, y que está compuesto por un conjunto de paquetes de software libre, que se distribuyen en forma de paquetes binarios para arquitecturas de procesadores Intel x86, AMD64, ARM, PowerPC, SPARC, MIPS, Alpha, HPPA, IA64, S390, S390x, y también para arquitecturas de procesadores de 32 bits y 64 bits.
+Ejemplo en **negrita**
 
+Ejemplo en *cursiva*
 
-Debian es un sistema operativo **libre**
+Ejemplo en ***negrita y cursiva***
 
-Su núcleo es **Linux**
+Ejemplo en ~~tachado~~
 
-Es  ***Software Libre***
-
-~~No es de propietario~~
-
-Podemos usar la `terminal shell`
+Ejemplo en `codigo`
 
 ## Enlaces
 
-[Enlace a la página de Windows](https://www.debian.org/index.es.html)
+[Enlace a google](https://www.google.com)
 
 ## Listas
 
-### Ventajas de Debian:
+### No ordenadas
 
-* Filosofía y organigrama muy definidos
-* Gran comunidad
-* Gran documentación
-* Gran estabilidad
+* Elemento 1
+* Elemento 2
+* Elemento 3
 
-### Desventajas de Debian:
+### Ordenadas
 
-1. No es muy intuitivo
-2. No es muy fácil de instalar
-3. No es muy fácil de configurar
+1. Elemento 1
+2. Elemento 2
+3. Elemento 3
 
-## Algunos requisitos del sistema:
+## Tablas
 
-|Requisitos Debian sin entorno gráfico|
+| Asignatura | Curso |
 |--------|-----------|
-| RAM   |  128 MB  |
-| Espacio en disco  |  2 GB  |
+| IAW   | 2º ASIR     |
+| FW  | 1º ASIR     |
 
 
+## Citas
 
-
-## Cita sobre Linux
-
-> Linux es un sistema operativo de código abierto, es decir, que su código fuente está disponible para todo el mundo y que cualquiera puede modificarlo y redistribuirlo. Linux es un sistema operativo que se basa en el núcleo Linux, y que está compuesto por un conjunto de paquetes de software libre, que se distribuyen en forma de paquetes binarios para arquitecturas de procesadores Intel x86, AMD64, ARM, PowerPC, SPARC, MIPS, Alpha, HPPA, IA64, S390, S390x, y también para arquitecturas de procesadores de 32 bits y 64 bits.
+> Esto es una cita
