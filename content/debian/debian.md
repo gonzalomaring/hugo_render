@@ -1,5 +1,6 @@
 ---
 title: "Web estática dedicada a Debian"
+date: 2022-09-30T10:16:30+02:00
 draft: false
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "INICIO WEB ESTÁTICA CREADA PARA IAW"
+date: 2022-09-30T10:18:30+02:00
 draft: false
 ---
 # Implantación de Aplicaciones Web

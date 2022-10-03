@@ -1,5 +1,7 @@
 ---
 title: "Web estática dedicada a Windows"
+date: 2022-09-30T10:15:30+02:00
+
 draft: false
 ---
 
