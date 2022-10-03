@@ -116,15 +116,16 @@ menu:
   main:
     - identifier: posts
       name: Posts
-      url: https://hugo-yjt4.onrender.com/posts
-      weight: 5
+      url: /posts/
+      weight: 20
     - identifier: debian
       name: Debian
-      url: https://hugo-yjt4.onrender.com/debian
-      weight: 10
+      url: /debian/
+      weight: 20
     - identifier : windows
       name: Windows
       url: /windows/
+      weight: 20
     - identifier: web_externa
       name: Moodle IES Gonzalo Nazareno
       url: https://dit.gonzalonazareno.org/moodle
