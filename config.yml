@@ -116,11 +116,11 @@ menu:
   main:
     - identifier: posts
       name: Posts
-      url: /posts/
+      url: https://hugo-yjt4.onrender.com/posts
       weight: 5
     - identifier: debian
       name: Debian
-      url: /debian/
+      url: https://hugo-yjt4.onrender.com/debian
       weight: 10
     - identifier : windows
       name: Windows
